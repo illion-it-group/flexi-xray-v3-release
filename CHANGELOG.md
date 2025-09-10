@@ -1,3 +1,15 @@
+# v3.0.2.0
+
+- Fixed EzDent application errors
+- Fixed the API debug options
+- Added a way to start the XRay applications synchronously
+- Added the ability to DISABLE the automatic startup updates
+- Simplified process handling
+- Added patient Folder Watcher widget (disabled by default)
+- Added Sentry integration
+
+---
+
 # v3.0.1.0
 
 - Removed Conexio support

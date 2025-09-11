@@ -1,3 +1,10 @@
+# 3.0.2.1
+
+- Fixed Folder Watcher widget status label overflow
+- The main window only gets focus when it is visible
+
+---
+
 # v3.0.2.0
 
 - Fixed EzDent application errors

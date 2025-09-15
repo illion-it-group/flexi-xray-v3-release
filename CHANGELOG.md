@@ -1,3 +1,13 @@
+# 3.0.2.2
+
+- Added the ability to choose the storage mode of the installation GUID
+    - Registry (LOCAL MACHINE)
+    - Registry (CURRENT USER)
+    - Filesystem (guid.txt)
+- Reverted the process initialization for the CliniView application handler
+
+---
+
 # 3.0.2.1
 
 - Fixed Folder Watcher widget status label overflow

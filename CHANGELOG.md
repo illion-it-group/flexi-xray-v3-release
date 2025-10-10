@@ -1,3 +1,9 @@
+# 3.0.2.3
+
+- Added debug information to Sentry calls
+
+---
+
 # 3.0.2.2
 
 - Added the ability to choose the storage mode of the installation GUID

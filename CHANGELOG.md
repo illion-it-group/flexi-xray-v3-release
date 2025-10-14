@@ -1,3 +1,11 @@
+# 3.0.2.4
+
+- Fixed a rare bug causing a crash due to a race condition
+- Removed some information from the Sentry debug info because of security reasons
+- Added repeated automatic update checks after startup (customizable, on every hour by default)
+
+---
+
 # 3.0.2.3
 
 - Added debug information to Sentry calls

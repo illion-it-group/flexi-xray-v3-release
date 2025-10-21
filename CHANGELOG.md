@@ -1,3 +1,9 @@
+# 3.0.2.5
+
+- Added the ability to move the status widget at the top edge of the screen (if the widget is enabled)
+
+---
+
 # 3.0.2.4
 
 - Fixed a rare bug causing a crash due to a race condition

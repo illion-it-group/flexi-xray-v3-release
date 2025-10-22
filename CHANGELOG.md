@@ -1,3 +1,10 @@
+# 3.0.2.6
+
+- Reworked update process with error handling
+- Updated & fixed Inno installer script
+
+---
+
 # 3.0.2.5
 
 - Added the ability to move the status widget at the top edge of the screen (if the widget is enabled)

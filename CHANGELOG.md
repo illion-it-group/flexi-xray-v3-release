@@ -1,3 +1,9 @@
+# 3.0.2.7
+
+- Fixed a null reference error and race conditions while writing the configuration file. [#6959810380]
+
+---
+
 # 3.0.2.6
 
 - Reworked update process with error handling

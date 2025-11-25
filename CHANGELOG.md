@@ -1,3 +1,12 @@
+# 3.0.2.8
+
+- Improved Sentry error reporting reliability
+    - Debug information is now persisted to disk (debuginfo.txt)
+    - Previous session's debug data is available even during early startup errors
+    - Session values take precedence over stored values
+
+---
+
 # 3.0.2.7
 
 - Fixed a null reference error and race conditions while writing the configuration file. [#6959810380]

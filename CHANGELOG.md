@@ -1,3 +1,9 @@
+# 3.0.2.9
+
+- Fixed Carestream UI thread blocking issue that was caused by the killing of previous CS process
+
+---
+
 # 3.0.2.8
 
 - Improved Sentry error reporting reliability

@@ -1,3 +1,11 @@
+# 3.0.3.0
+
+- Added the ability to use folder watcher path wildcards and placeholders:
+    - `*`: This could be anything
+    - `[PATIENT-ID]`: This will be the current patient's ID
+
+---
+
 # 3.0.2.9
 
 - Fixed Carestream UI thread blocking issue that was caused by the killing of previous CS process

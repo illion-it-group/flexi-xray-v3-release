@@ -1,3 +1,9 @@
+# 3.0.3.2
+
+- Using a separate STA thread for Clipboard operations
+
+---
+
 # 3.0.3.1
 
 - Fixed Digora thread pool issue with Clipboard usage

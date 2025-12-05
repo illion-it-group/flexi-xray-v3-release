@@ -1,3 +1,9 @@
+# 3.0.3.1
+
+- Fixed Digora thread pool issue with Clipboard usage
+
+---
+
 # 3.0.3.0
 
 - Added the ability to use folder watcher path wildcards and placeholders:

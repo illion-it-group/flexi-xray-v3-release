@@ -1,3 +1,11 @@
+# 3.0.4.0
+
+- Added `flexiv3://` protocol support with JWT-based authentication
+- Added automatic migration to ensure default protocol handlers exist in user configuration
+- Refactored protocol handling to reduce code duplication
+
+---
+
 # 3.0.3.2
 
 - Using a separate STA thread for Clipboard operations

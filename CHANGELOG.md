@@ -1,3 +1,10 @@
+# 3.0.5.0
+
+- Fixed UI freeze during Sidexis launch when writing to slow or unavailable network paths.
+    - `siomin.sdx` file operations now run asynchronously
+
+---
+
 # 3.0.4.0
 
 - Added `flexiv3://` protocol support with JWT-based authentication
